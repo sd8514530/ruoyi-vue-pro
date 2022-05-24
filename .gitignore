@@ -45,3 +45,4 @@ nbdist/
 
 ### JRebel ###
 rebel.xml
+yudao-server/src/main/resources/application-local.yaml
